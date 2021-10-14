@@ -8,7 +8,7 @@
 5-GitHub
 
 
-wireframes :
+<h3>wireframes :</h3>
 
 At first, I created a starting page, then a page with letters, and the user will  make a word from existing letters.
 And then the word is "correct" or "incorrect" will appear. 
@@ -17,13 +17,13 @@ And then the word is "correct" or "incorrect" will appear.
 
 
 
-Describe how you solved for the winner :
+<h3>Describe how you solved for the winner :</h3>
 
 In the function we define the amount of correct possible words
 
 
 
- favorite functions work :
+<h3> favorite functions work :</h3>
 
 swal({
       title: "Win",
@@ -54,10 +54,9 @@ something i did and we didn't cover in class is (SweetAlert2)
 
 
 
-What would you like to add next?
-( next level ).
 
-/////////////////////////////////////////////////////////////////////
+
+
 # ![](/images/1.jpg)
 
 https://pages.git.generalassemb.ly/samaheralattas/project/
